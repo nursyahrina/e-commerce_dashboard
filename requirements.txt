@@ -1,5 +1,8 @@
 streamlit
-pandas
+babel
 numpy
+pandas
+scipy
 matplotlib
 seaborn
+jupyter
