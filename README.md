@@ -30,6 +30,8 @@ Investigate sales trends and seasonality in Olist's e-commerce data.
 
 ## Access the Dashboard:
 
+![Screenshot of Olist Brazilian E-Commerce Data Dashboard](screenshot_dashboard.png "Olist Brazilian E-Commerce Data Dashboard")
+
 The Olist Brazilian E-Commerce Data Dashboard is hosted on the Streamlit Community Cloud and can be accessed at [https://nursyahrina-ecommerce-dashboard.streamlit.app/](https://nursyahrina-ecommerce-dashboard.streamlit.app/). Explore the world of Brazilian e-commerce data and gain insights into this dynamic market.
 
 
