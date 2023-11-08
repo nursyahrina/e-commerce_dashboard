@@ -12,19 +12,26 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
-This GitHub repository hosts the final project for the Dicoding learning module "Belajar Analisis Data dengan Python," focusing on the analysis of Olist, a prominent Brazilian e-commerce platform. The project encompasses a comprehensive dashboard showcasing key insights from the dataset and a notebook that details the data cleaning and exploratory data analysis (EDA) process.
+## Description:
+
+Welcome to the Olist Brazilian E-Commerce Data Dashboard project repository! This project was created as the final project of the Dicoding learning module "Belajar Analisis Data dengan Python" (Learn Data Analysis with Python). It showcases a comprehensive data dashboard that provides insights into the Olist e-commerce dataset, along with a detailed notebook for data cleaning and exploratory data analysis (EDA).
 
 ## Project Overview:
 
-Dashboard: Explore a visually engaging dashboard that presents essential findings and trends within the Olist e-commerce data. This interactive dashboard provides a user-friendly interface for understanding customer demographics, product performance, and sales trends.
+- Dashboard: Explore the dynamic and interactive dashboard powered by Streamlit, allowing you to visualize key metrics and trends in the Olist e-commerce dataset. The dashboard is publicly available and can be accessed online at [Olist E-Commerce Dashboard](https://nursyahrina-ecommerce-dashboard.streamlit.app/). Discover valuable insights into the e-commerce data, including sales performance, product categories, customer demographics, and more.
 
-Notebook: Delve into the intricacies of data cleaning and exploratory data analysis with our Jupyter notebook. Discover how we transformed the raw data into meaningful insights, identified data quality issues, and extracted valuable information to drive informed decisions.
+- Notebook: Dive deep into the data preprocessing and exploratory data analysis (EDA) process with the Jupyter notebook provided. Follow along as we clean the dataset, extract meaningful information, and uncover hidden patterns and trends. This notebook is a valuable resource for those interested in understanding the data analysis process.
 
 ## Key Features:
 
 Visualize customer demographics and their geographical distribution.
 Analyze the performance of different product categories.
 Investigate sales trends and seasonality in Olist's e-commerce data.
+
+## Access the Dashboard:
+
+The Olist Brazilian E-Commerce Data Dashboard is hosted on the Streamlit Community Cloud and can be accessed at [https://nursyahrina-ecommerce-dashboard.streamlit.app/](https://nursyahrina-ecommerce-dashboard.streamlit.app/). Explore the world of Brazilian e-commerce data and gain insights into this dynamic market.
+
 
 ### Data Analysis Project: E-Commerce Public Dataset (Olist)
 - Name: Nursyahrina
