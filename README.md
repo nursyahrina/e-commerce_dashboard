@@ -1,4 +1,16 @@
-# Olist Brazilian E-Commerce Data Analysis and Dashboard
+# Olist Brazillian E-Commerce Dashboard :chart_with_upwards_trend:
+
+## Setup environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
+
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
 
 This GitHub repository hosts the final project for the Dicoding learning module "Belajar Analisis Data dengan Python," focusing on the analysis of Olist, a prominent Brazilian e-commerce platform. The project encompasses a comprehensive dashboard showcasing key insights from the dataset and a notebook that details the data cleaning and exploratory data analysis (EDA) process.
 
